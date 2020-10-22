@@ -1,2 +1,2 @@
 # PSD
- Practicas de Programación de Sistemas Distribuidos
+ Prácticas de Programación de Sistemas Distribuidos en la UCM
